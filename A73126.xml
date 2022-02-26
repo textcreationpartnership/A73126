@@ -1,0 +1,656 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ane admonition to the antichristian ministers in the deformit Kirk of Scotland</title>
+            <author>Burne, Nicol.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1581</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73126</idno>
+            <idno type="STC">STC 22031</idno>
+            <idno type="STC">ESTC S125523</idno>
+            <idno type="EEBO-CITATION">99898149</idno>
+            <idno type="PROQUEST">99898149</idno>
+            <idno type="VID">173649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173649)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2084:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ane admonition to the antichristian ministers in the deformit Kirk of Scotland</title>
+                  <author>Burne, Nicol.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>T. Brumen?],</publisher>
+                  <pubPlace>[Paris :</pubPlace>
+                  <date>1581.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to N. Burne by STC.</note>
+                  <note>In Scots dialect.</note>
+                  <note>Place of publication from and printer's name conjectured by STC.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Copy at reel 2084 lacks blank leaf.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="sco">sco</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Controversial literature --  Catholic authors --  Early works to 1800.</term>
+               <term>Catholic Church --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173649:1"/>
+            <pb facs="tcp:173649:1"/>
+            <p>ANE ADMONITION TO THE ANTICHRI<g ref="char:EOLhyphen"/>ſtian Miniſters In the De<g ref="char:EOLhyphen"/>formit Kirk of Scotland.</p>
+            <q>EXVRGAT DEVS ET DIS<g ref="char:EOLhyphen"/>SIPENTVR INIMICI EIVS.</q>
+            <p>1581.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:173649:2"/>
+            <head>To the Louing Reider</head>
+            <lg>
+               <l>GIf pacience, vith confidence, of God hes had reuaird,</l>
+               <l>Gif reuerence, obedience, be giftis not a bill</l>
+               <l>Vith reaſon, but treaſon, humilitie be ſtabil</l>
+               <l>To Catholik, Apoſtolik, the victor is de-claird.</l>
+            </lg>
+            <lg>
+               <l>Gif periurie, and traitorie, be vyces venemous,</l>
+               <l>Gif ſclander, can rander, his maiſter recompance</l>
+               <l>The Proteſtant ſo moleſtant, be al intelligence,</l>
+               <l>For hyi re, the fyi-re ſal get of Cerberus.</l>
+            </lg>
+            <closer>
+               <salute>Adieu.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:173649:2"/>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>O Ȝou miniſters, and Prelattis of perdition</l>
+               <l>This ſchedul ſchort I do direct in plane</l>
+               <l>Sen violentlie Ȝe haue fru-ition</l>
+               <l>Of that gude ſpous, quhilk man cum hame agane</l>
+               <l>My counſall is Ȝe think hir bot a lane</l>
+               <l>I mean the Kirk of <hi>CHRIST</hi> our Preiſt, and King</l>
+               <l>Quha for Ȝour thift I traiſt ſalbe Ȝour bane</l>
+               <l>That ſathan for Ȝour ſaull may dergie ſing</l>
+            </lg>
+            <lg>
+               <l>Quha hes ſamony ſaulis in error brocht</l>
+               <l>To Ȝou Conuoy to hel that Kindome dark</l>
+               <l>Sen miſerable ſlauis lyk Ȝou hes euer ſocht</l>
+               <l>To be accumpaneit in all yair euill vark</l>
+               <l>Sa did our Lord the reprobat ay mark</l>
+               <l>As members of ſedition and ſtryf</l>
+               <l>That maiſters of ane euill ſteik of vark</l>
+               <l>Sould ay deteſt the godlie vpricht lyf.</l>
+            </lg>
+            <lg>
+               <l>For ſen the tyme that fals Apoſtat preiſt</l>
+               <l>Ennemie to Chriſt and mannis ſaluation</l>
+               <l>Ȝour maiſter Knox, that vicked venemous beiſt</l>
+               <l>Vas chaiſsit from the Inglish nation</l>
+               <l>And come to Ȝou to preiche abhomination</l>
+               <l>In Scotland ſumtyme Realme of re-noun</l>
+               <l>Extreme hes bene that deſo-lation</l>
+               <l>Ȝe haue ſuſtenit in citie, tour, and toun.</l>
+            </lg>
+            <lg>
+               <l>The Lord behaldis Ȝour Knaucrie gret and ſmall</l>
+               <l>Ȝour doctrine and Ȝour lyuis vicious</l>
+               <l>As of his ſanctuarie Ȝe brak the vall</l>
+               <l>Lymmers violent, fals, and ſe-ditious</l>
+               <l>Sik Peſtis var neuer ſend pernicious:</l>
+               <l>Be God our Lord to Pharao the king</l>
+               <l>As Ȝou quhom damnit Sathan Cerberus,</l>
+               <l>Hes placit ouer Chriſtianis to Rigne</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:173649:3"/>
+               <l>Sik man ſik maiſter as is ſaid</l>
+               <l>Sik trie ſik fructe all tyme ve ſe</l>
+               <l>And as Ȝour maiſters grund is laid</l>
+               <l>Lyk do the vallis and bigging be:</l>
+               <l>Father of leyis, ſtryf, and Iniquitie,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entation, blaſpheme, thift, and all the laue</l>
+               <l>Sik childrene hes he procreat to be</l>
+               <l>Duollaris into his Babilon Geneue.</l>
+            </lg>
+            <lg>
+               <l>That chyre of Antichriſt, and deſo-lation,</l>
+               <l>That hure of Babylon, and Prince of Atheiſme</l>
+               <l>That Coup of poiſon for monie realme and nation</l>
+               <l>Blaſphemand <hi>CHRIST</hi> leuand in Barba-riſme</l>
+               <l>Counſall that foſteris hereſie and ſciſme,</l>
+               <l>Vitchecraft, adulterie, and may gif Ȝe vill craue</l>
+               <l>Vith all the properteis of Sathannis drago-niſme</l>
+               <l>Place for the Antichriſt in ſpeciall is Ge-neue.</l>
+            </lg>
+            <lg>
+               <l>Mony be foſterit vnder this huris band,</l>
+               <l>Diuers in maners, Doctrine, and con-dition,</l>
+               <l>Varkmen to Nemrod quha thocht to reich his hand</l>
+               <l>Heich to ye heauins to haue fru-ition</l>
+               <l>Ane tour he beildit for tu-ition</l>
+               <l>From the deluge of valter him to ſaue</l>
+               <l>Nemrod is Luther, ſone of per-dition</l>
+               <l>That romane Antichriſt blaſphemous knaue</l>
+            </lg>
+            <lg>
+               <l>Thus did proceid on pryd and pre-ſumption</l>
+               <l>This vark attemptit contrar the michtie Lord</l>
+               <l>As Nemrod vas ane man of gret ambition</l>
+               <l>The halie vrit expreſlie makis record</l>
+               <l>Bot quhen as he in place to haue adord</l>
+               <l>His God and makar quha ſtrenth vnto him gaue</l>
+               <l>Began to big that tour a thing ab-hord</l>
+               <l>As may be callit the Babilon Geneue.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:173649:3"/>
+               <l>Then God for iuſt reuenge of that thair pryd</l>
+               <l>Diuerſitie of tungis vnto thame ſent</l>
+               <l>And vnto diuers cuntreis pat aſyd</l>
+               <l>The varkmen of that monſtreous intent</l>
+               <l>Quhilk the poſteritie Iuſtlie may repent</l>
+               <l>That vnitie of ſpeiche vas then diſſoluit</l>
+               <l>Nane vnderſtude quhat another ment</l>
+               <l>Vith confuſion ſua vas al thing in-uoluit.</l>
+            </lg>
+            <lg>
+               <l>Sua quhen Ȝour maiſter Lucifer the Deuill</l>
+               <l>Be Ȝou his kingdome planelie had e-rectit</l>
+               <l>Detractand <hi>CHRIST</hi> reddie to all euill</l>
+               <l>Cofferit vithin Ȝou for feir to be ſuſpectit</l>
+               <l>God hes Ȝour tungis and myndis ſa far deiectit</l>
+               <l>As nou dois vitnes Ȝour varkis and vritting is haill</l>
+               <l>Vith contradictions, and leſingis haill infectit</l>
+               <l>Prophane proteſtantis, lament, murne and beuail.</l>
+            </lg>
+            <lg>
+               <l>Efter that Sathan his horne begoud to blau</l>
+               <l>In diuers nations of Chriſtianitie</l>
+               <l>To rais his kingdome tentation did ſau</l>
+               <l>Into ye hairtis of men in all degrie</l>
+               <l>Firſt to blaſpheme the name of God ſo hie</l>
+               <l>Nixt of his ſone from death that did vs ſaue</l>
+               <l>And then all ſanctis, vith his mother <hi>MARIE</hi>
+               </l>
+               <l>As planelie teſtefeis that Babilon Geneue.</l>
+            </lg>
+            <lg>
+               <l>Bot Ȝit quha vald of Scotland knau the ſtait</l>
+               <l>Ay ſen the Ȝeir of God threſcore and ane</l>
+               <l>In place of prayer it did imbrace debait</l>
+               <l>So Sathan led men ſteid faſt be the mane</l>
+               <l>That nather Lord nor knicht he lute a-lane</l>
+               <l>Except his coup var vachtit out aluay</l>
+               <l>Seaſonit vith blaſpheme, ſacrilege, diſdayne</l>
+               <l>All godlie lyf, and cheritie to ſlay.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:173649:4"/>
+               <l>Attour that ſerpent of Ȝour deformation</l>
+               <l>In euerie toun and citie he arryuit</l>
+               <l>Realme, kingdome, cuntrie, or nation,</l>
+               <l>Vith all his micht and force ay ſtill he ſtryuit</l>
+               <l>That lauchfull paſtors of the Kirk ſould be depryuit</l>
+               <l>And ſacrifice of the Altar eik aboleiſt</l>
+               <l>Thus is Ȝour Antichriſt be S. Iohne deſcryuit</l>
+               <l>Blaſphemand <hi>CHRIST</hi> our king, prophet, and preiſt.</l>
+            </lg>
+            <lg>
+               <l>Denyand ſcripturis plane and places gude</l>
+               <l>Buikis, volumes, and Propheceis ſo treu</l>
+               <l>Maiſt plane Euangellis quhilk ar our ſaulis fude</l>
+               <l>Vrittin in the auld, and eik the Teſtament neu</l>
+               <l>Thus Sathan in Ȝour knauish luggis bleu</l>
+               <l>Stil to deny all treuth and veritie</l>
+               <l>Sua that amang Ȝou ſalbe fund richt feu</l>
+               <l>Bot ar infectit vith deulish blaſphemie</l>
+            </lg>
+            <lg>
+               <l>Quhairfore ſen nou thir thingis be manifeſt,</l>
+               <l>And tyme requyris amendement of miſsis,</l>
+               <l>Ȝour deulish hereſie at al tyme can not leſt,</l>
+               <l>Bot as God louis his flock ſa he thame bliſsis</l>
+               <l>Lykuyſe the viſdome of the halie ſpreit ay vishis</l>
+               <l>That Chriſtianis of the Kirk ſould haue remeid</l>
+               <l>Go hence then lounis the laich vay in <hi>A-byſſis</hi>
+               </l>
+               <l>Kilt vp Ȝour Conneis, to Geneue haiſt vith ſpeid.</l>
+            </lg>
+            <lg>
+               <l>Sen for loun Villox to be Ȝour crounal ſtrang</l>
+               <l>Quhais heid and ſchoulders ar of bouk aneuch</l>
+               <l>That vas in ſcotland vyre enin Ȝou amang</l>
+               <l>Quhen as he draue, and Knox held ſteue the Pleuch</l>
+               <l>And Methuen ſeu adulterie ſo teuch</l>
+               <l>Behind thair heillis in fornication Ȝeid</l>
+               <l>Rou custe the vſurie hard be the beuch</l>
+               <l>Kilt vp Ȝour Conneis to Geneue haiſt vith ſpeid.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:173649:4"/>
+               <l>Gudman his brother, and ſecretar man be</l>
+               <l>To regiſter his prechingis of ſedition</l>
+               <l>Practeces and propheceis of Nicro-mancie</l>
+               <l>Craig that Apoſtat hes in tu-ition</l>
+               <l>Venom and poiſon vill furneis Chryſteſon</l>
+               <l>The laſſ he reueiſt at Berne: I haue not leid</l>
+               <l>Makbrair of vyuis fyue hes had fruition</l>
+               <l>And Blakuod four to Geneue haiſt vith ſpeid.</l>
+            </lg>
+            <lg>
+               <l>Sua that ane metar man in my opinion</l>
+               <l>Can not be fund <hi>oeconomus</hi> to be</l>
+               <l>Na metar cuik nor Durie that fed loun</l>
+               <l>Chryſteſon Ȝour trumpetour blauis loud and hie</l>
+               <l>His boſſ bellie ramforſit vith creiſch and lie</l>
+               <l>Vill ſerue to be a gabion in neid</l>
+               <l>His heid a bullat vith pouldre far to flie</l>
+               <l>Kilt vp Ȝour Conneis, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And that Ȝe vant na paſtyme be the vay</l>
+               <l>Meluene can play the fule as Ȝe veil knau</l>
+               <l>Cairnis vill rin vod, and Brog vil go aſtray</l>
+               <l>Kinneir I geſſ to fling vil ſtand na au</l>
+               <l>Dauidſon Ȝour Poët that skipper crous can crau</l>
+               <l>Sua that he knau the Iurnay to ſucceid</l>
+               <l>Leyn the fals preiſt vil ſing baſe to blakha</l>
+               <l>Kilt vp Ȝour Conneis, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Blak and Cahoune I trou vald follou ſone</l>
+               <l>Sincere vagabundis and outlauis ſuthorne ſuorne</l>
+               <l>Vith ſindrie vthers quha can not fal in tone</l>
+               <l>Diuers in maners, vnhappy, fals, forlorne</l>
+               <l>Thir may Ȝour Schone and buittis mak clene at morne</l>
+               <l>Thair ſleikit tungis ar ſua veil creiſchit indeid</l>
+               <l>Better gudgettis ar not of Scotland borne</l>
+               <l>Kilt vp, &amp;c.</l>
+               <l>
+                  <pb facs="tcp:173649:5"/>Bot or Ȝe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>echt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in band,</l>
+               <l>I man of force place ane afore a-nother</l>
+               <l>Amang the firſt I fauor flattering Brand,</l>
+               <l>Nixt men be Craig Apoſtat, paillard brother</l>
+               <l>I can not mark tua meater of the futher</l>
+               <l>Brand ſalbe furriour to mark Ȝou be the heid</l>
+               <l>Craig thou art clerk I can not find another</l>
+               <l>To preiche poiſon for the treu ſaulis remeid.</l>
+            </lg>
+            <lg>
+               <l>Smeton the baner to the I gif in gyding</l>
+               <l>Thou hes the thunder ſubtile ſatanical</l>
+               <l>To gar thame brek yair nekkis alreddie ſlyding</l>
+               <l>Thou hes refuſit God, his kirk and all</l>
+               <l>Tentation, lichorie, libertie, haue maid the fall</l>
+               <l>Thou hes Blaſphemit our prophet, Preiſt, and heid</l>
+               <l>O filthie tegre Baby-lonical</l>
+               <l>Diſplay thy baner to Geneue haiſt vith ſpeid.</l>
+            </lg>
+            <lg>
+               <l>Vnder the ſchaddou let Louſon fut it ſteue</l>
+               <l>Scurgar of <hi>CHRIST</hi> quhilk is ane odius thing</l>
+               <l>Tormenting and burning of the pure may preue</l>
+               <l>For almous crauing his cheritie gart ding</l>
+               <l>Smeton thou grantis the kirk this day to rigne</l>
+               <l>Louſon the ſame inuiſible vil pleid</l>
+               <l>He is thy fallou fals veper maligne</l>
+               <l>Kilt vp, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Vatſon the monk vnthriftie campion</l>
+               <l>And gif he tyre veymis may capitane be</l>
+               <l>I vil not ſay bot braggand Forguſon</l>
+               <l>Vich halflang ſuord ſould clame to this degrie</l>
+               <l>The firſt is mutilat in the hand Ȝe ſe</l>
+               <l>The vther fed of bellie, erſs, and heid,</l>
+               <l>The edge of ſuord for commentar ſeruis the</l>
+               <l>Kilt vp, &amp;c.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:173649:5"/>
+               <l>Sen Furie cuikis it may ſtaik the-ful veil</l>
+               <l>The fyre to big and ſcudle diſchis clene</l>
+               <l>Baith at a ſcule inſpyrit vith the Deil</l>
+               <l>Ȝour tungis ſcedicious and fals hes ſcourit bene</l>
+               <l>Ȝour equal ſtoutnes is manifeſtlie ſene</l>
+               <l>Furie vith dag, and murrion on heid</l>
+               <l>Thou vith thy ſcripture call it halflang I vene</l>
+               <l>The peperit beif can tail Ȝe be the threid.</l>
+            </lg>
+            <lg>
+               <l>Syn for Ȝour vnitie in contradiction</l>
+               <l>Sa man Ȝour aduocattis and men of lau be hyrit</l>
+               <l>To pleid the caus and vecht of Ȝour opinion</l>
+               <l>Tak ſchairp and leſlie tua vyſe men veill inſpyrit</l>
+               <l>Leſlie to cum from lauis to Ȝou he fyrit</l>
+               <l>Schairp from Ȝou, vent to the lauis for neid,</l>
+               <l>As he vas vyſe the vther planelie sk yrit</l>
+               <l>Gar paint thair baigis to Geneue haiſt vith ſpeid.</l>
+            </lg>
+            <lg>
+               <l>And gif Ȝe feir betraying of yame baith</l>
+               <l>As may befal in mater of ſik cace</l>
+               <l>Kilpont I traiſt vil let Ȝou tak na skaith</l>
+               <l>Bot ſtrang and ſteidfaſt aganis the hil vald brace</l>
+               <l>Vnles his leggis var ſair ſing Ȝe allace</l>
+               <l>He hes the lauis and ſcripture baith for neid</l>
+               <l>Temporal Iuge, and prechour, double face</l>
+               <l>Ȝour meit ambaſſad for Sathan I conceid.</l>
+            </lg>
+            <lg>
+               <l>Tak Paterſon Ȝour victuallis hail to keip,</l>
+               <l>That lordlie loun and ſone of Italie</l>
+               <l>Blakburne man haue the pryd vnles he veip</l>
+               <l>Falſet I gif to Glaſſ and thom makghe</l>
+               <l>Sould not the Meluene ſirris exaltit be</l>
+               <l>Sa veil the vay he kennis and can Ȝou leid</l>
+               <l>Scripture perqueir he hes ſiniſtrouſlie</l>
+               <l>Follou Ȝour gyde to Geneue haiſt vith ſpeid;</l>
+               <l>
+                  <pb facs="tcp:173649:6"/>Bot Ȝit Ȝe vant Ȝour trunſcheman be the vay</l>
+               <l>That man be vyſe and ſubtile lyk a tod,</l>
+               <l>The meteſt man for this office I ſay,</l>
+               <l>Is Adamſon, in-Conſtant, heatar of God,</l>
+               <l>He is, at hame, and hes bene ſua abrod,</l>
+               <l>Ȝe knau his laſt Confeſsion maid Ȝou anger,</l>
+               <l>Diſcord amang Ȝou to mak Ȝour euins od</l>
+               <l>For gif Ȝe ſuffer he vil grou daylie ſtrangar.</l>
+            </lg>
+            <lg>
+               <l>I gif Ȝou als to be the diſpenſature</l>
+               <l>Of Ȝour vnthriftie vaigis as thay follou</l>
+               <l>Cuninghame Biſchop that drunkin blaſphemature</l>
+               <l>For he ſubſcryuit Ȝe knau: he can not hallou,</l>
+               <l>Except it be his cop, to ſup, and ſuallou,</l>
+               <l>Gif Ȝe proceid to excom-munication,</l>
+               <l>For Ȝet not boyd of Glaſgou vas his fallou</l>
+               <l>Thay thrie intendit to baneis Ȝou the nation.</l>
+            </lg>
+            <lg>
+               <l>Vynrame the loun he may not be forgottin</l>
+               <l>Quha leuis quhil God a vengeance on him ſend</l>
+               <l>He kneu the veritie, menſuorne, fals, and forloppin,</l>
+               <l>Dunkeſon the knaue vil neuer amend.</l>
+               <l>Bot Ȝit gude Lord, quha anis thy name hes kend</l>
+               <l>may or thay de find for thair ſaulis remeid</l>
+               <l>Vith thy elect Arbuthnot I commend,</l>
+               <l>Althocht the laue to Geneue haiſt vith ſpeid.</l>
+            </lg>
+            <lg>
+               <l>Balcanqual ſalbe corporal firſt in place</l>
+               <l>Denyand plane S. Petir vas in Rome</l>
+               <l>As he hes ſaid into the kingis face</l>
+               <l>His maieſtie be Ȝou had onlie kingdome</l>
+               <l>Planelie denu<g ref="char:cmbAbbrStroke">̄</g>cit the tinſel of his fredome</l>
+               <l>Lyk as balquhannan vith his buke him fleid</l>
+               <l>The ſecund place hes litil Dauid home</l>
+               <l>Kilt vp Ȝour Conneis, &amp;c.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:173649:6"/>
+               <l>The bangiſter Hayis ſalbe the vther tuay</l>
+               <l>Ane is the tyrane, the vther fals I vish</l>
+               <l>Dalgleish the couart may ga behind and ſay,</l>
+               <l>He may cum on the bakuart band to blis,</l>
+               <l>Lyndeſay of leith tak thou thy pairt of this</l>
+               <l>Bennet but pintle may be the hand the leid</l>
+               <l>Denyit plane the laſſ that he could kiſſ</l>
+               <l>Vith michel als quha vranguſlie baith leid.</l>
+            </lg>
+            <lg>
+               <l>Symſon of Dumbar quhat ſall I ſay of the</l>
+               <l>I knau thou vaittis Lieuténentis place to haue</l>
+               <l>I grant thy viſdome ſoleid for to be</l>
+               <l>As kellochis dreame bearis vitnes ouer the laue</l>
+               <l>Sa may thou baldlie ane hear place cum craue</l>
+               <l>Var not thou ſeis full ill the band to leid</l>
+               <l>The leſs experience hes thou thy flock to ſaue</l>
+               <l>Kilt vp thy Connie to Geneue haiſt vith ſpeid.</l>
+            </lg>
+            <lg>
+               <l>The vther number of the congregation,</l>
+               <l>Redaris, exhortaris, or quhatſumeuir thay be</l>
+               <l>That leuis this day into the Scottis nation</l>
+               <l>Let thame prepare, and hy thame haiſtelie</l>
+               <l>Vith bag, and baggage, pak vp richt ſuddanlie</l>
+               <l>Memoriallis, vrittingis, letteris, nedil, and threid,</l>
+               <l>For nou thair glaſs is run as Ȝe may ſe</l>
+               <l>Sua that of force to Geneue man thay ſpeid.</l>
+            </lg>
+            <lg>
+               <l>Nou for Ȝour vage that Ȝe may byt and gnau</l>
+               <l>For euerie day I mak Ȝou aſsignation</l>
+               <l>To tak the curſe and vengeance I can ſchau</l>
+               <l>Of infenit people into that nation</l>
+               <l>That cryis to heauin: Lord for thy paſsion</l>
+               <l>Delyuer vs from this bondage miſerable</l>
+               <l>Quhair thy name is in abhomi-nation.</l>
+               <l>That the to ſerue thy ſeruandis may be abill.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:173649:7"/>
+               <l>Curſe of the infantis gottin in adulterie</l>
+               <l>Fornication, Inceſt, filthie ſynnis all</l>
+               <l>Curſe of the husbandis that leuis ſeparatlie</l>
+               <l>From lauchfull vyf to the Adulteres thral</l>
+               <l>Curſe of the people quha on the Lord do cal</l>
+               <l>For Paſtors, and Sacramentis, the ſaulis remeid</l>
+               <l>Curſe of the pure in nu<g ref="char:cmbAbbrStroke">̄</g>ber gret, and ſmal,</l>
+               <l>Quhom Ȝe haue ſcurgit, and hungerit to the deid.</l>
+            </lg>
+            <lg>
+               <l>Curſe of the ſeik, lying in paynis ſtrang</l>
+               <l>And ſufferis dolor vith torment infenit</l>
+               <l>To quhoum in ſaul and body Ȝe do vrang</l>
+               <l>Barring auay that heauinlie benefeit,</l>
+               <l>And confortable ſacrament, baith of drink and meit</l>
+               <l>As planelie teſtefeis that ſaxt chapter of Iohne</l>
+               <l>A neidfull meane vnto that kingdome ſueit</l>
+               <l>As lykuſe is that holy Vnction.</l>
+            </lg>
+            <lg>
+               <l>Curſe of the Kirk our mother ſpiritual</l>
+               <l>Quhom Ȝe haue robbit and ſpul Ȝeit of hir richt</l>
+               <l>Curſe of our Saluiour hir ſpous celeſtial</l>
+               <l>Quhom Ȝe deny pouar to haue, or micht,</l>
+               <l>And callis him lear: O ennemeis of licht!</l>
+               <l>Curſe of the Biſchops, and Doctors of his kirk,</l>
+               <l>Quhom he hes ordanit as ey-is of hir ſicht,</l>
+               <l>Curſe of the ſaulis quhom Ȝe keip in the mirk.</l>
+            </lg>
+            <lg>
+               <l>Curſe for Ȝour breking of that Sacrament</l>
+               <l>And haly band of ſacred Matremony</l>
+               <l>Quhilk Ȝe rebellis to Chriſtis teſtament</l>
+               <l>Callis baſtard: Double ſonnis of Deuilrie!</l>
+               <l>S. Paul hes curſit Ȝou in this point I ſe</l>
+               <l>Moyſes forbad Ȝou to giue the nichbouris vyf</l>
+               <l>To the vnlauchful husbandis cumpanie</l>
+               <l>Curſit be Ȝe in al Ȝour eage and lyf.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:173649:7"/>
+               <l>Curſit be Ȝe be <hi>CHRIST</hi> our ſaluiour</l>
+               <l>For breking of that godly ordonnance</l>
+               <l>Neceſſar office in kirk call it Ordour</l>
+               <l>Quhilk Ȝe baſtard villanis of diffidence</l>
+               <l>In plane contempt of his preheminence</l>
+               <l>Lyk turk and Iou vith Sathan do deteſt</l>
+               <l>O vepers forgit of malice and offence!</l>
+               <l>Iudas ſall Iuge Ȝou, and God ſall ſcale Ȝour neſt.</l>
+            </lg>
+            <lg>
+               <l>Ȝe mereit ſurelie for recompance and pane</l>
+               <l>A thouſand curſis daylie at Ȝour ryſing</l>
+               <l>Gif godlie Noë var leuand anis agane</l>
+               <l>He ſould accuſe Ȝour filthie, fals, miſgyſing</l>
+               <l>Of haly Kirk: Ȝour temerar diſpyſing:</l>
+               <l>Ȝe Sodometis diſcouerit hes hir members:</l>
+               <l>Curſit be Ȝe for that Ȝour il a vyſing</l>
+               <l>traitors to God, and to Ȝour prences lymmers.</l>
+            </lg>
+            <lg>
+               <l>Curſit be Ȝe quhais tung did flame our Quene</l>
+               <l>Curſit be Ȝe, quha thocht to ſell our King</l>
+               <l>Traitors to God: to Inglish men I vene</l>
+               <l>Ȝour treaſon ſtrang Ȝour fyrie breiſt ſall ding</l>
+               <l>Ȝe gat the purſe, and vaitit better thing</l>
+               <l>To ſel the ſone, as Ȝe did fleme the mother:</l>
+               <l>Vnhappy clan, peruerſit, and maligne,</l>
+               <l>The ſchip is vrang quhen Ȝe do ſteir the ruther.</l>
+            </lg>
+            <lg>
+               <l>Curſit be Ȝe for templis caſting doun,</l>
+               <l>Curſit be Ȝe for Ȝour conſente-ment,</l>
+               <l>To ſlauchter of that freind vnto the croun</l>
+               <l>Fructis of Ȝour faith, peruerſit Iugement,</l>
+               <l>Treaſon, invy, ſlauchter, ar Ȝour intent</l>
+               <l>Sua that the godlie may not leue amang Ȝou</l>
+               <l>I traist to ſe the day Ȝe ſalbe ſchent</l>
+               <l>That for thir faultis King Iames the ſaxt ſal hang Ȝou</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:173649:8"/>
+               <l>And als of liberalitie ſal Ȝe haue</l>
+               <l>The malediction of God omnipotent</l>
+               <l>His name, Angellis, ſanctis, and al the laue</l>
+               <l>Quhom Ȝe blaſphemit hail, vith villis bent,</l>
+               <l>Coniurit ſcurriors of the Antichryſt repent,</l>
+               <l>Leue of in tyme Chriſtis people to deceaue</l>
+               <l>Vnles Ȝe vald incur ye Iugement</l>
+               <l>In hel to duol vith Pluto leying knaue.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Reſtore, thy glore, O lord I the beſeik</hi>
+               </l>
+               <l>
+                  <hi>Indeu, vith treu, intelligence thy flock</hi>
+               </l>
+               <l>
+                  <hi>Thou ſcis, the leyis, thy ennemeis ſeik</hi>
+               </l>
+               <l>
+                  <hi>Thy name, to blame, as thay haue thy Rock</hi> S. T.</l>
+               <l>
+                  <hi>Cum lord, ac-cord, reneu thy ȝock</hi>
+               </l>
+               <l>
+                  <hi>That teichers, and Preichers, had in thy Kirk</hi>
+               </l>
+               <l>
+                  <hi>Auail, preuail, deſtroy the block</hi>
+               </l>
+               <l>
+                  <hi>That vurkis, thir turkis, aganis the in mirk</hi>
+               </l>
+               <l>
+                  <hi>That ve may ſing, thy Pray-ſe benigne</hi>
+               </l>
+               <l>
+                  <hi>To the condigne, O-ur Lord and King.</hi>
+               </l>
+            </lg>
+            <closer>AMEN.</closer>
+            <trailer>
+               <hi>FINIS.</hi> DEO GRATIAS, &amp;c.</trailer>
+            <pb facs="tcp:173649:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
